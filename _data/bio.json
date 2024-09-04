@@ -10,8 +10,8 @@
     "location": { "address": "secret", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "hovomuradyan", "url": "http://github.com/hovomuradyan" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/hovhannesmuradyan/" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/hovhannes485" }
+      { "network": "linkedin", "username": "Hovhannes Muradyan", "url": "https://www.linkedin.com/in/hovhannesmuradyan/" },
+      { "network": "instagram", "username": "Hovhannes", "url": "http://instagram.com/hovhannes485" }
     ]
   },
   "interests": [

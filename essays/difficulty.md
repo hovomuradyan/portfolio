@@ -3,13 +3,14 @@ layout: essay
 type: essay
 title: "Typescript is just a typescript"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2024-09-04
 published: true
 labels:
   - typescript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/typescript.png">
+
 
 I wouldn't say that typescript significantly amazes or annoys me. Whether TypeScript is the best choice depends on the project at hand. For instance, if performance is a priority, C++ may still reign supreme, while for cross-platform development, other tools like React Native, Kotlin, or Flutter could be more appropriate. In small applications/scripts where those kinds of things don’t matter at all, I would choose a different language, which syntax I know better. 
 

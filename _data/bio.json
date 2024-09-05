@@ -5,13 +5,13 @@
     "picture": "https://github.com/hovomuradyan.png",
     "email": "muradyan@hawaii.edu",
     "phone": "424-480-6014",
-    "website": "https:/hovomuradyan.github.io",
+    "website": "https://hovomuradyan.github.io/portfolio/",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "hovomuradyan", "url": "http://github.com/hovomuradyan" },
       { "network": "linkedin", "username": "Hovhannes Muradyan", "url": "https://www.linkedin.com/in/hovhannesmuradyan/" },
-      { "network": "instagram", "username": "Hovhannes", "url": "http://instagram.com/hovhannes485" }
+      { "network": "instagram", "username": "hovhannes485", "url": "http://instagram.com/hovhannes485" }
     ]
   },
   "interests": [

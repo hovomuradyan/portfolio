@@ -15,28 +15,28 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Finances and Economics" },
+    { "name": "Politics" },
+    { "name": "Quantum Trading" },
+    { "name": "Outdoor activities" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C++", "Python/flask", "Java", "Flutter/Dart", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Linux", "Git/GitHub", "bash", "Wordpress", "HTML/CSS", "Web Clouds", "QT5/6"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Minnesota - Twin Cities, MN",
       "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -44,69 +44,39 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Maroon & Gold Network - Kelly O’Connell Inc",
+      "position": "Web Developer (micro-internship",
+      "website": "https://kellyoconnellinc.com/coaching/",
+      "startDate": "2024-06-01",
+      "endDate": "2024-07-01",
+      "summary": "Maroon & Gold Network micro internship program",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Built a website from scratch with analytical features utilizing WordPress, SQL, and related frameworks", 
+        "Reorganized hosting file system and cleared malware scripts leading to a 20% expense deduction", 
+        "Achieved top 5 search engine ranking through effective SEO optimization, significantly increasing traffic", 
+        "Automated all workflow by integrating third-party services to reduce manual work"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "University of Minnesota",
+      "position": "rientation Leader and Student Worker",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2023-10-01",
+      "endDate": "2024-07-20",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        " Facilitated transition for 7000 students during New Student Orientation and Transfer Orientation programs, with over 300 students in my groups",
+        "Coordinated 9 small group discussions for over 180 new students, presenting essential campus resources", 
+        "Worked as a student staff member at M Food Co",
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Global Excellence Scholarship",
+      "date": "2023-Present",
+      "awarder": "University of Minnesota",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who got selected through the holistic review."
     }
   ],
   "references": [

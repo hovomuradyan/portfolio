@@ -7,7 +7,7 @@
     "phone": "424-480-6014",
     "website": "https:/hovomuradyan.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "secret", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "hovomuradyan", "url": "http://github.com/hovomuradyan" },
       { "network": "linkedin", "username": "Hovhannes Muradyan", "url": "https://www.linkedin.com/in/hovhannesmuradyan/" },
@@ -16,10 +16,9 @@
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Finances and Economics" },
-    { "name": "Politics" },
+    { "name": "Software in finance and economics" },
     { "name": "Quantum Trading" },
-    { "name": "Outdoor activities" }
+    { "name": "Outdoor activities"}
   ],
   "skills": [
     {
@@ -46,7 +45,7 @@
     {
       "company": "Maroon & Gold Network - Kelly O’Connell Inc",
       "position": "Web Developer (micro-internship",
-      "website": "https://kellyoconnellinc.com/coaching/",
+      "website": "",
       "startDate": "2024-06-01",
       "endDate": "2024-07-01",
       "summary": "Maroon & Gold Network micro internship program",
@@ -59,7 +58,7 @@
     },
     {
       "company": "University of Minnesota",
-      "position": "rientation Leader and Student Worker",
+      "position": "Orientation Leader and Student Worker",
       "website": "",
       "startDate": "2023-10-01",
       "endDate": "2024-07-20",

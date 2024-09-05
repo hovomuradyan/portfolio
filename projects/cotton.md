@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/UnitedGenerationSquare.jpg
 title: "UnitedGlobalGeneration Camp"
 date: 2023
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "The biggest school-based camp in Armenia."
 ---
 
-![image](https://github.com/user-attachments/assets/4821765f-8849-4a01-a6eb-6cc42068241d)
+image: img/cotton/UnitedGlobalGenerationHeader.jpg
 
 
 UnitedGlobalGeneration is the biggest school-based camp in Armenia that I and my team organized during the summer of 2023. We hosted more than 350 school-aged students for 2 weeks of intense math and IT classes.

@@ -12,14 +12,7 @@ summary: "The biggest school-based camp in Armenia."
 ---
 
 
+Edure is an unpublished learning management system. It utilizes Flutter/dart for the front end part and Python/flask with SQL lite for the back end part.
+It is currently in the frozen developing stage, however, the most important systems are already developed. It has a unique permission system, data structure, and Course management system.
 
-
-UnitedGlobalGeneration is the biggest school-based camp in Armenia that I and my team organized during the summer of 2023. We hosted more than 350 school-aged students for 2 weeks of intense math and IT classes.
-
-<img src="../img/cotton/UnitedGlobalGenerationHeader.jpg">
-
-The project got a lot of good feedback and was referred by the first TV channel and radio station in Armenia. 
-
-[First Armenian TV - Youtube](https://www.youtube.com/watch?v=5DLlJ9SwkMo)
-
-[First Radio - SoundCloud](https://soundcloud.com/armradio/08082023a-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+<img src="../img/cotton/UnitedGlobalGenerationHeader.jpg" style="width:50%; height:50%;">

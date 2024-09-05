@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/edure.jpg
+image: img/vacay/edure_square.jpg
 title: "Vacay"
 date: 2024
 published: true

@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/a2557761-f33a-413f-9c35-a772d37251da)---
 layout: project
 type: project
 image: img/cotton/cotton-square.png
@@ -20,3 +19,4 @@ The project got a lot of good feedback and was referred by the first TV channel 
 https://www.youtube.com/watch?v=5DLlJ9SwkMo
 https://soundcloud.com/armradio/08082023a-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
+Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>

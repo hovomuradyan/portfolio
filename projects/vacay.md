@@ -12,9 +12,9 @@ labels:
 summary: "Edure is a learning management system"
 ---
 
+Edure is an unpublished learning management system. It utilizes Flutter/dart for the front end part and Python/flask with SQL lite for the back end part.
+It is currently in the frozen developing stage, however, the most important systems are already developed. It has a unique permission system, data structure, and Course management system.
 
 <img src="../img/vacay/edure_web.png">
-
-In this project, under the Maroon&Gold network micro internship program and for Kelly O'Connell Inc., I built a fully functional website from the ground up using WordPress and SQL, incorporating analytical features to enhance user experience and data insights. I revamped the hosting file system, removing malware scripts, which led to a 20% reduction in operational expenses. Additionally, I implemented SEO strategies that elevated the site to a top 5 ranking in search engine results, significantly increasing web traffic. To streamline operations, I integrated third-party services, automating workflows and reducing manual efforts.
 
 

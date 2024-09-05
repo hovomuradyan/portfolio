@@ -11,7 +11,8 @@ labels:
 summary: "The biggest school-based camp in Armenia."
 ---
 
-![image](https://github.com/user-attachments/assets/8d6a21a8-5b6e-4a51-b35d-099c17a0b848)
+![image](https://github.com/user-attachments/assets/4821765f-8849-4a01-a6eb-6cc42068241d)
+
 
 UnitedGlobalGeneration is the biggest school-based camp in Armenia that I and my team organized during the summer of 2023. We hosted more than 350 school-aged students for 2 weeks of intense math and IT classes.
 

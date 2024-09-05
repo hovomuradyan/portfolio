@@ -20,6 +20,6 @@ UnitedGlobalGeneration is the biggest school-based camp in Armenia that I and my
 
 The project got a lot of good feedback and was referred by the first TV channel and radio station in Armenia. 
 
-[a link](https://www.youtube.com/watch?v=5DLlJ9SwkMo)
+[First Armenian TV - Youtube](https://www.youtube.com/watch?v=5DLlJ9SwkMo)
 
-[a link](https://soundcloud.com/armradio/08082023a-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+[First Radio - SoundCloud](https://soundcloud.com/armradio/08082023a-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)

@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/vacay/edure_square.jpg
-title: "Vacay"
+title: "Edure"
 date: 2024
 published: true
 labels:

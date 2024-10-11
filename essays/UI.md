@@ -6,7 +6,7 @@ title: "Coding standards"
 date: 2024-10-10
 published: true
 labels:
-  - UI
+  -UI
 ---
 
 In the realm of web development, the tension between simplicity and complexity is an ever-present theme. While raw HTML and CSS offer a straightforward approach to building web pages, the introduction of UI frameworks like Bootstrap 5 can significantly alter this dynamic. Despite the steep learning curve associated with these frameworks, the benefits they bring can make the investment worthwhile. In this essay, we will explore the reasons behind adopting UI frameworks, particularly Bootstrap 5, and examine the broader implications for software engineering.

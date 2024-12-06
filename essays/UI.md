@@ -1,19 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "Coding standards"
+title: "Design Patterns"
 # All dates must be YYYY-MM-DD format!
-date: 2024-10-10
+date: 2024-12-5
 published: true
 labels:
-  - Coding standards
+  - Design Patterns
 ---
 
 
-Coding standards often spark debates over seemingly trivial details, like whether to use tabs or spaces, but their impact is much deeper. They’re not just about aesthetics but essential for improving software quality, aiding learning, and fostering teamwork.
+Design patterns are reusable solutions to common problems in software development, offering developers proven methods for building efficient, maintainable, and scalable systems. They act as blueprints to solve recurring challenges, allowing developers to focus on the unique aspects of their application. Design patterns are typically categorized into creational, structural, and behavioral types. For example, the Factory pattern allows for flexible object creation, the Singleton pattern ensures a single instance of a resource, and the Observer pattern facilitates communication between objects. These patterns help developers avoid reinventing the wheel, speeding up development and reducing errors.
 
-For me, consistency in coding is crucial. When everyone on a team follows the same guidelines, it makes the code easier to read and maintain. However, I have to say that I dislike the standard of using two spaces for indentation; I much prefer using tabs set to four spaces. To me, four spaces provide better clarity and help highlight the structure of the code. It’s a small detail, but it reflects how coding standards should cater to both individual preferences and team needs.
+In my own work, I have found design patterns to be incredibly useful in streamlining the design of complex systems. When building a web application with real-time notifications, I used the Observer pattern to allow various components to react to changes without tight coupling. For managing database connections, I relied on the Singleton pattern to ensure that the system used only one shared instance, preventing resource contention. Additionally, when creating a reporting system with multiple formats, I used the Factory pattern to dynamically generate the appropriate report type, simplifying the process and making it easier to extend the system in the future.
 
-Using tools like ESLint in VSCode can be a game-changer. At first, tackling those ESLint errors can feel like a chore, but it pushes you to develop better habits and truly understand the language. That initial struggle is part of the learning curve, and as you get more comfortable, it becomes less about fixing errors and more about honing your skills.
+Design patterns do more than just solve specific problems—they also improve the overall structure and adaptability of software. By providing a common language and approach, they enable better collaboration among developers and help maintain consistency across a project. Patterns like these make software systems more flexible, easier to maintain, and more scalable over time. In my experience, leveraging design patterns has made my code more modular and easier to modify as requirements evolve. Ultimately, design patterns are invaluable tools that lead to better, more reliable software development.
 
-In the end, coding standards are about more than just rules; they form the backbone of quality software development. They create a shared language among developers, enhance code quality, and make collaboration smoother. While preferences, like indentation styles, may differ, what matters most is building a codebase that everyone can work with comfortably and effectively.
+Note: AI generated

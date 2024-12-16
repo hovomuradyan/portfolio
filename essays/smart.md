@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Art of Stupid questions"
+title: "Reflect on Your Use of AI in ICS 314"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-11
+date: 2024-12-16
 published: true
 labels:
   - AI Use

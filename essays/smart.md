@@ -13,7 +13,7 @@ labels:
 
 
 ## Are there stupid questions?
-Yes, there are. In scenarios same question in google gives you the exact same answer, posting the question is not always the best practice.
+No, there are. In scenarios same question in google gives you the exact same answer, posting the question is not always the best practice.
 Currently, StackOverFlow closes questions with lack of details or even deletes them. You can read more about the StackOverFlow requirments here: https://stackoverflow.com/help/closed-questions
 <br><br><br>
 
